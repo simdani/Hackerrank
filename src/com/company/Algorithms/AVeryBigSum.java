@@ -1,8 +1,6 @@
-package com.company.Algorithms.compare_the_triples;
+package com.company.Algorithms;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 public class AVeryBigSum {
     static long aVeryBigNumber(long[] ar) {

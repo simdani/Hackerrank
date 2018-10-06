@@ -1,4 +1,4 @@
-package com.company.Algorithms.compare_the_triples;
+package com.company.Algorithms;
 
 import java.io.*;
 import java.util.ArrayList;
