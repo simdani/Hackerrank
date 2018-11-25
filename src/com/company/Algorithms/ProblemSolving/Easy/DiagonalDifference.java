@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class DiagonalDifference {
     private static int diagonalDifference(int[][] arr) {

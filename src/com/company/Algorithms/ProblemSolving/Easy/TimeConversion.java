@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 import java.text.DateFormat;
 import java.text.ParseException;

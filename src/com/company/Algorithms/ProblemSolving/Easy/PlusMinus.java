@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class PlusMinus {
     static void plusMinus(int[] arr) {

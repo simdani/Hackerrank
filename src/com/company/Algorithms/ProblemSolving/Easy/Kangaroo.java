@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class Kangaroo {
     static String kangaroo(int x1, int v1, int x2, int v2) {

@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/BetweenTwoSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BreakingRecords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/AVeryBigSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/AVeryBigSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/AppleAndOrange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/AppleAndOrange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/BetweenTwoSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BetweenTwoSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/BirthdayCakeCandles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BirthdayCakeCandles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/CompareTriples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CompareTriples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/GradingStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/GradingStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/Kangaroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/MiniMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/MiniMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/PlusMinus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/SimpleArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SimpleArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/StairCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/StairCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/TimeConversion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,37 +30,37 @@
     <session id="-2060892725">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.1" value="8" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5975" />
+          <entry key="java" value="6426" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5975" />
+          <entry key="JAVA" value="6426" />
         </counts>
       </usages-collector>
     </session>
@@ -54,46 +68,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/SimpleArraySum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SimpleArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/MiniMaxSum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/MiniMaxSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/BirthdayCakeCandles.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/GradingStudents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/PlusMinus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/TimeConversion.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/TimeConversion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,50 +107,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/GradingStudents.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/PlusMinus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/AppleAndOrange.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/Kangaroo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/Kangaroo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BreakingRecords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/BetweenTwoSets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-              <folding>
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/StairCase.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CompareTriples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="104">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/StairCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DiagonalDifference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -179,6 +189,8 @@
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/AppleAndOrange.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/Kangaroo.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/BetweenTwoSets.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Algorithms/BreakingRecords.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BirthdayCakeCandles.java" />
       </list>
     </option>
   </component>
@@ -194,9 +206,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="56" />
-    <option name="width" value="950" />
+    <option name="width" value="960" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -230,20 +242,63 @@
               <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543075555967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543149280850" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -260,13 +315,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BetweenTwoSets">
+  <component name="RunManager" selected="Application.BreakingRecords">
     <configuration name="AppleAndOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.AppleAndOrange" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.AppleAndOrange" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.*" />
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,11 +330,24 @@
       </method>
     </configuration>
     <configuration name="BetweenTwoSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.BetweenTwoSets" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.BetweenTwoSets" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.*" />
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakingRecords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.BreakingRecords" />
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +356,11 @@
       </method>
     </configuration>
     <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.GradingStudents" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.GradingStudents" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.*" />
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,24 +369,11 @@
       </method>
     </configuration>
     <configuration name="Kangaroo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.Kangaroo" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.Kangaroo" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.TimeConversion" />
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.*" />
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,19 +382,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TimeConversion" />
       <item itemvalue="Application.GradingStudents" />
       <item itemvalue="Application.AppleAndOrange" />
       <item itemvalue="Application.Kangaroo" />
       <item itemvalue="Application.BetweenTwoSets" />
+      <item itemvalue="Application.BreakingRecords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreakingRecords" />
         <item itemvalue="Application.BetweenTwoSets" />
         <item itemvalue="Application.Kangaroo" />
         <item itemvalue="Application.AppleAndOrange" />
         <item itemvalue="Application.GradingStudents" />
-        <item itemvalue="Application.TimeConversion" />
       </list>
     </recent_temporary>
   </component>
@@ -376,18 +431,21 @@
       <workItem from="1542915402639" duration="675000" />
       <workItem from="1542991195146" duration="534000" />
       <workItem from="1542992925473" duration="6000" />
-      <workItem from="1543074694541" duration="851000" />
+      <workItem from="1543074694541" duration="937000" />
+      <workItem from="1543075656130" duration="31000" />
+      <workItem from="1543084414978" duration="6000" />
+      <workItem from="1543148758965" duration="521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11537000" />
+    <option name="totallyTimeSpent" value="12181000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="56" width="950" height="1000" extended-state="4" />
+    <frame x="0" y="56" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30420354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25026682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +455,7 @@
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24597701" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24597701" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,100 +491,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/CompareTriples.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/AppleAndOrange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/AVeryBigSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/AVeryBigSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/DiagonalDifference.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BetweenTwoSets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/SimpleArraySum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BirthdayCakeCandles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/MiniMaxSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BreakingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/BirthdayCakeCandles.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CompareTriples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="104">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/PlusMinus.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/TimeConversion.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/GradingStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/Kangaroo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/MiniMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/PlusMinus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SimpleArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/StairCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/TimeConversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/GradingStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/AppleAndOrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/StairCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/Kangaroo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/BetweenTwoSets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
           </folding>
         </state>
       </provider>

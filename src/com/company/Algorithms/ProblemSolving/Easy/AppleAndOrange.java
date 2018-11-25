@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class AppleAndOrange {
     static void countApplesAndOranges(int s, int t, int a, int b,

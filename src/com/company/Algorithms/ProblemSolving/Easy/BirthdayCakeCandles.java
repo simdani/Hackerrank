@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class BirthdayCakeCandles {
     static int birthdayCakeCandles(int[] ar) {

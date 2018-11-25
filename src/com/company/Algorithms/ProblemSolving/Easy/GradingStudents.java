@@ -1,4 +1,4 @@
-package com.company.Algorithms;
+package com.company.Algorithms.ProblemSolving.Easy;
 
 public class GradingStudents {
     static int[] gradingStudents(int[] grades) {
