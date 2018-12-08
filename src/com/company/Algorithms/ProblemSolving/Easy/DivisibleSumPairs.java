@@ -1,24 +1,29 @@
 package com.company.Algorithms.ProblemSolving.Easy;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class DivisibleSumPairs {
     static int divisibleSumPairs(int n, int k, int[] ar) {
         int pairCount = 0;
-        int[] remainderCountList = new int[k];
+        Map<Integer, Integer> buckets = new HashMap<>();
 
-        for (int i = 0; i < ar.length; i++) {
-            int remainder =  ar[i] % k;
-            remainderCountList[remainder]++;
-        }
-        int exactCount = remainderCountList[0];
-        pairCount += (exactCount * (exactCount - 1)) / 2;
+        for (int i = 0; i < n; i++) {
+            int num = ar[i];
+            num %= k;
 
-        for (int i = 1; i <= k / 2 && i != k - 1; i++) {
-            pairCount += remainderCountList[i] * remainderCountList[k - 1];
-        }
+            int complement = (k - num) % k;
+            Integer count = buckets.get(complement);
+            if (count != null) {
+                pairCount += count;
+            }
 
-        if (k % 2 == 0) {
-            int halfCount = remainderCountList[k / 2];
-            pairCount += (halfCount * (halfCount - 1)) / 2;
+            count = buckets.get(num);
+            if (count == null) {
+                buckets.put(num, 1);
+            } else {
+                buckets.put(num, count + 1);
+            }
         }
 
         return pairCount;
