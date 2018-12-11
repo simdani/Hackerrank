@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,52 +54,44 @@
     <session id="1680407315">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4536" />
+          <entry key="java" value="5141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4536" />
+          <entry key="JAVA" value="5141" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DesigninPdfViewer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DivisibleSumPairs.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,15 +113,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -234,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/DivisibleSumPairs.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BeautifulDaysAtTheMovies.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java" />
       </list>
     </option>
   </component>
@@ -250,9 +248,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1058" />
-    <option name="height" value="1038" />
+    <option name="x" value="-10" />
+    <option name="width" value="1017" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -291,6 +289,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,28 +334,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
-              <item name="com.company" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544469222046" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544551218156" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -359,7 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ViralAdvertising">
+  <component name="RunManager" selected="Application.SequenceEquation">
     <configuration name="BeautifulDaysAtTheMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.BeautifulDaysAtTheMovies" />
       <module name="Hackerrank" />
@@ -399,8 +397,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HurdleRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.HurdleRace" />
+    <configuration name="SequenceEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.SequenceEquation" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -426,19 +424,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HurdleRace" />
       <item itemvalue="Application.DesigninPdfViewer" />
       <item itemvalue="Application.DivisibleSumPairs" />
       <item itemvalue="Application.BeautifulDaysAtTheMovies" />
       <item itemvalue="Application.ViralAdvertising" />
+      <item itemvalue="Application.SequenceEquation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequenceEquation" />
         <item itemvalue="Application.ViralAdvertising" />
         <item itemvalue="Application.BeautifulDaysAtTheMovies" />
         <item itemvalue="Application.DivisibleSumPairs" />
         <item itemvalue="Application.DesigninPdfViewer" />
-        <item itemvalue="Application.HurdleRace" />
       </list>
     </recent_temporary>
   </component>
@@ -502,16 +500,18 @@
       <workItem from="1544350846783" duration="7000" />
       <workItem from="1544380472604" duration="1088000" />
       <workItem from="1544468171983" duration="920000" />
+      <workItem from="1544476226876" duration="26000" />
+      <workItem from="1544549968881" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27221000" />
+    <option name="totallyTimeSpent" value="28429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="846" height="830" extended-state="0" />
+    <frame x="-8" y="0" width="813" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32315522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3559097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -521,7 +521,7 @@
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23426062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23357664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -681,9 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,6 +705,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BeautifulDaysAtTheMovies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -753,21 +757,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BeautifulDaysAtTheMovies.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
