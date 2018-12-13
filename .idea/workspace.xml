@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,9 +54,9 @@
     <session id="1680407315">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
@@ -65,7 +65,8 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,12 +81,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5268" />
+          <entry key="java" value="5749" />
+          <entry key="regexp" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5268" />
+          <entry key="JAVA" value="5749" />
+          <entry key="RegExp" value="31" />
         </counts>
       </usages-collector>
     </session>
@@ -113,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="230">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
@@ -122,12 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -250,9 +249,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1018" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,17 +261,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
-              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
-              <item name="com.company" type="1f31426a:PackageElementNode" />
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -307,30 +319,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="PackagesPane">
+        <subPane>
           <expand>
             <path>
-              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="company" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Hackerrank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Hackerrank" type="616d4139:PackageViewModuleNode" />
+              <item name="com.company" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -341,7 +340,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544644591858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544733928841" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -359,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SequenceEquation">
+  <component name="RunManager" selected="Application.CatsAndMouse">
     <configuration name="BeautifulDaysAtTheMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.BeautifulDaysAtTheMovies" />
       <module name="Hackerrank" />
@@ -373,8 +372,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesigninPdfViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.DesigninPdfViewer" />
+    <configuration name="CatsAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.CatsAndMouse" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
@@ -426,21 +425,51 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DesigninPdfViewer" />
       <item itemvalue="Application.DivisibleSumPairs" />
       <item itemvalue="Application.BeautifulDaysAtTheMovies" />
       <item itemvalue="Application.ViralAdvertising" />
       <item itemvalue="Application.SequenceEquation" />
+      <item itemvalue="Application.CatsAndMouse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatsAndMouse" />
         <item itemvalue="Application.SequenceEquation" />
         <item itemvalue="Application.ViralAdvertising" />
         <item itemvalue="Application.BeautifulDaysAtTheMovies" />
         <item itemvalue="Application.DivisibleSumPairs" />
-        <item itemvalue="Application.DesigninPdfViewer" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="constants" text="class $Class$ {&#10;    $FieldType$ $Field$ = $init$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA">
+      <constraint name="Class" within="" contains="" />
+      <constraint name="FieldType" within="" contains="" />
+      <constraint name="Field" regexp="text=[a-z_]+[a-z]" within="" contains="" />
+      <constraint name="init" within="" contains="" />
+      <constraint name="__context__" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="fields of the class" created="1544647170109" text="class $Class$ { &#10;  $FieldType$ $Field$ = $Init$;&#10;}" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="Class" within="" contains="" />
+      <constraint name="FieldType" regexp="[a-z_]+[a-z]" within="" contains="" />
+      <constraint name="Field" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="Init" minCount="0" within="" contains="" />
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="fields of the class" created="1544647056619" text="class $Class$ { &#10;  $FieldType$ $Field$ = $Init$;&#10;}" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="Class" within="" contains="" />
+      <constraint name="FieldType" within="" contains="" />
+      <constraint name="Field" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="Init" minCount="0" within="" contains="" />
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="constants" created="1544646901156" text="class $Class$ {&#10;    $FieldType$ $Field$ = $init$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="Class" within="" contains="" />
+      <constraint name="FieldType" within="" contains="" />
+      <constraint name="Field" regexp="text=[a-z_]+[a-z]" within="" contains="" />
+      <constraint name="init" within="" contains="" />
+      <constraint name="__context__" target="true" within="" contains="" />
+    </searchConfiguration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -505,16 +534,18 @@
       <workItem from="1544476226876" duration="26000" />
       <workItem from="1544549968881" duration="1182000" />
       <workItem from="1544644536734" duration="56000" />
+      <workItem from="1544646024450" duration="1277000" />
+      <workItem from="1544732781297" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28485000" />
+    <option name="totallyTimeSpent" value="30564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="814" height="832" extended-state="0" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36604774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24687934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -523,8 +554,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23357664" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32846716" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23279649" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -705,9 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,6 +753,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/PlusMinus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -733,13 +768,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/Kangaroo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BreakingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -767,21 +795,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/BreakingRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
