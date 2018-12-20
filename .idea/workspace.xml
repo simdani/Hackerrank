@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="" />
+    <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/DuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/FindAllPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/PalindromeTEst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/RemoveCharFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/SumTwoEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InterviewQuestions/printMissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,124 +19,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2060892725">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.1" value="11" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="34" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="8431" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="8431" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1680407315">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="24" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="5853" />
-          <entry key="regexp" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="5853" />
-          <entry key="RegExp" value="31" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/FindAllPermutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="82">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/printMissingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="344">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/SumTwoEquals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="437">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/FindDigits.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/DuplicateCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="252">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -235,14 +173,14 @@
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/FindDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/PalindromeTEst.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/RemoveCharFromString.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/FindAllPermutations.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/printMissingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/SumTwoEquals.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InterviewQuestions/DuplicateCharacters.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -250,10 +188,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -263,6 +201,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -308,45 +275,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544817508499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545326743838" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -360,20 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CatsAndMouse">
-    <configuration name="BeautifulDaysAtTheMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.BeautifulDaysAtTheMovies" />
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindAllPermutations">
     <configuration name="CatsAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.CatsAndMouse" />
       <module name="Hackerrank" />
@@ -387,12 +312,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.DivisibleSumPairs" />
+    <configuration name="FindAllPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InterviewQuestions.FindAllPermutations" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
+          <option name="PATTERN" value="com.company.InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTEst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InterviewQuestions.PalindromeTEst" />
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveCharFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InterviewQuestions.RemoveCharFromString" />
+      <module name="Hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,33 +364,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ViralAdvertising" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.ViralAdvertising" />
-      <module name="Hackerrank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.DivisibleSumPairs" />
-      <item itemvalue="Application.BeautifulDaysAtTheMovies" />
-      <item itemvalue="Application.ViralAdvertising" />
       <item itemvalue="Application.SequenceEquation" />
       <item itemvalue="Application.CatsAndMouse" />
+      <item itemvalue="Application.PalindromeTEst" />
+      <item itemvalue="Application.RemoveCharFromString" />
+      <item itemvalue="Application.FindAllPermutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAllPermutations" />
+        <item itemvalue="Application.RemoveCharFromString" />
+        <item itemvalue="Application.PalindromeTEst" />
         <item itemvalue="Application.CatsAndMouse" />
         <item itemvalue="Application.SequenceEquation" />
-        <item itemvalue="Application.ViralAdvertising" />
-        <item itemvalue="Application.BeautifulDaysAtTheMovies" />
-        <item itemvalue="Application.DivisibleSumPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -541,17 +479,19 @@
       <workItem from="1544736383904" duration="8000" />
       <workItem from="1544817431627" duration="77000" />
       <workItem from="1544957096176" duration="20000" />
+      <workItem from="1545253062095" duration="1555000" />
+      <workItem from="1545289810287" duration="6000" />
+      <workItem from="1545325465564" duration="1280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30669000" />
+    <option name="totallyTimeSpent" value="33510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27045768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -561,7 +501,7 @@
       <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32846716" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23279649" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23214285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,6 +513,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32988507" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -582,13 +523,11 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32932165" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/AppleAndOrange.java">
@@ -754,22 +693,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/ViralAdvertising.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state>
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SequenceEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state>
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CatsAndMouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state>
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/FindDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/PalindromeTEst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/RemoveCharFromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -815,13 +787,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/FindDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/FindAllPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="82">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/printMissingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/SumTwoEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/InterviewQuestions/DuplicateCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
