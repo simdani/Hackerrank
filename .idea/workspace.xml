@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09363ac-05c6-47c5-b1bb-9434a57f054b" name="Default Changelist" comment="time in words probl">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Hard/MatrixLayerRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/StrangeCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/RepeatedString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,13 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CamelCase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
+                <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Hard/MatrixLayerRotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SuperReducedString.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CamelCase.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Hard/MatrixLayerRotation.java" />
       </list>
     </option>
   </component>
@@ -186,7 +191,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="942" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -222,13 +227,16 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="Hackerrank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hackerrank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -250,23 +258,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Hackerrank" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Hackerrank" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546252684409" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546436163386" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -284,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CamelCase">
+  <component name="RunManager" selected="Application.MatrixLayerRotation">
     <configuration name="CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.CamelCase" />
       <module name="Hackerrank" />
@@ -298,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FairRations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Easy.FairRations" />
+    <configuration name="MatrixLayerRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Algorithms.ProblemSolving.Hard.MatrixLayerRotation" />
       <module name="Hackerrank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Easy.*" />
+          <option name="PATTERN" value="com.company.Algorithms.ProblemSolving.Hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,19 +348,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FairRations" />
       <item itemvalue="Application.StrangeCounter" />
       <item itemvalue="Application.RepeatedString" />
       <item itemvalue="Application.SuperReducedString" />
       <item itemvalue="Application.CamelCase" />
+      <item itemvalue="Application.MatrixLayerRotation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixLayerRotation" />
         <item itemvalue="Application.CamelCase" />
         <item itemvalue="Application.SuperReducedString" />
         <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.StrangeCounter" />
-        <item itemvalue="Application.FairRations" />
       </list>
     </recent_temporary>
   </component>
@@ -480,16 +477,17 @@
       <workItem from="1546024963256" duration="624000" />
       <workItem from="1546109332809" duration="779000" />
       <workItem from="1546251029321" duration="766000" />
+      <workItem from="1546430812132" duration="1348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39113000" />
+    <option name="totallyTimeSpent" value="40461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="753" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35064936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23300971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -837,6 +835,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SuperReducedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/PlusMinus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -879,23 +888,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/SuperReducedString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CamelCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="230">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Easy/CamelCase.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Algorithms/ProblemSolving/Hard/MatrixLayerRotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="322">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <element signature="e#501#502#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
